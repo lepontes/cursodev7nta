@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="operadoras">
+        <item>Selecione Operadora</item>
+            <item>OP1</item>
+        <item>OP2</item>
+        <item>OP3</item>
+
+    </string-array>
+</resources>
